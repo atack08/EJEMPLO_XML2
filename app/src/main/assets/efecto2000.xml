@@ -1,0 +1,142 @@
+<CLIENTES>
+    <CLIENTE>
+      <NOMBRE>Javier Serrano Graziati</NOMBRE>
+      <DIRECCION>Avda Iruña Veleia 1</DIRECCION>
+      <POBLACION>Vitoria</POBLACION>
+      <TELEFONO>945060205</TELEFONO>
+      <NIF>42598326-M</NIF>
+    </CLIENTE>
+    <CLIENTE>
+      <NOMBRE>Lucia Mariñas Paolin</NOMBRE>
+      <DIRECCION>Avda Mateo Renzi 1</DIRECCION>
+      <POBLACION>Madrid</POBLACION>
+      <TELEFONO>917356922</TELEFONO>
+      <NIF>45896321-N</NIF>
+    </CLIENTE>
+    <CLIENTE>
+      <NOMBRE>esteban Muriel Lopez</NOMBRE>
+      <DIRECCION>CL Esterai 22</DIRECCION>
+      <POBLACION>Madrid</POBLACION>
+      <TELEFONO>917345689</TELEFONO>
+      <NIF>77896326-B</NIF>
+    </CLIENTE>
+    <CLIENTE>
+      <NOMBRE>Marcos Aparicio Cortes</NOMBRE>
+      <DIRECCION>CL Segura 66</DIRECCION>
+      <POBLACION>Madrid</POBLACION>
+      <TELEFONO>915896422</TELEFONO>
+      <NIF>75584896-H</NIF>
+    </CLIENTE>
+    <CLIENTE>
+      <NOMBRE>Fernando Delgado Butron</NOMBRE>
+      <DIRECCION>CL Martin 66</DIRECCION>
+      <POBLACION>Vitoria</POBLACION>
+      <TELEFONO>945061232</TELEFONO>
+      <NIF>47523669-H</NIF>
+    </CLIENTE>
+    <CLIENTE>
+      <NOMBRE>Maria Sevilla Perez</NOMBRE>
+      <DIRECCION>CL Mateo Moraza 33</DIRECCION>
+      <POBLACION>Vitoria</POBLACION>
+      <TELEFONO>945065987</TELEFONO>
+      <NIF>51698790-J</NIF>
+    </CLIENTE>
+    <CLIENTE>
+      <NOMBRE>Francisco Perez Rubio</NOMBRE>
+      <DIRECCION>Avda Marques Yullc</DIRECCION>
+      <POBLACION>Barcelona</POBLACION>
+      <TELEFONO>934589633</TELEFONO>
+      <NIF>51489711-G</NIF>
+    </CLIENTE>
+    <CLIENTE>
+      <NOMBRE>Pedro Apaolaza Palencia</NOMBRE>
+      <DIRECCION>CL Madrid</DIRECCION>
+      <POBLACION>Vitoria</POBLACION>
+      <TELEFONO>945060512</TELEFONO>
+      <NIF>55269847-N</NIF>
+    </CLIENTE>
+    <CLIENTE>
+      <NOMBRE>Rosa Ramos Mala</NOMBRE>
+      <DIRECCION>Avda Pedro Santos 1</DIRECCION>
+      <POBLACION>Castellon</POBLACION>
+      <TELEFONO>921657845</TELEFONO>
+      <NIF>48025698-B</NIF>
+    </CLIENTE>
+    <CLIENTE>
+      <NOMBRE>Estefan Lugotz Prajl</NOMBRE>
+      <DIRECCION>CL Marco Polo 12</DIRECCION>
+      <POBLACION>Barcelona</POBLACION>
+      <TELEFONO>934569823</TELEFONO>
+      <NIF>47598213-V</NIF>
+    </CLIENTE>
+    <CLIENTE>
+      <NOMBRE>Marta Campillo Segura</NOMBRE>
+      <DIRECCION>Avda Poblado 1</DIRECCION>
+      <POBLACION>Madrid</POBLACION>
+      <TELEFONO>916589622</TELEFONO>
+      <NIF>77589563-V</NIF>
+    </CLIENTE>
+    <CLIENTE>
+      <NOMBRE>Mariano Rajoy Brey</NOMBRE>
+      <DIRECCION>Avda Pontevedra 1</DIRECCION>
+      <POBLACION>Pontevedra</POBLACION>
+      <TELEFONO>914652036</TELEFONO>
+      <NIF>48255596-M</NIF>
+    </CLIENTE>
+    <CLIENTE>
+      <NOMBRE>Marcial Martinez Geres</NOMBRE>
+      <DIRECCION>Cl Madrid 193</DIRECCION>
+      <POBLACION>Madrid</POBLACION>
+      <TELEFONO>945098258</TELEFONO>
+      <NIF>51689544-K</NIF>
+    </CLIENTE>
+    <CLIENTE>
+      <NOMBRE>Daniel Pedrosa Ramal</NOMBRE>
+      <DIRECCION>Cl Repsol Honda</DIRECCION>
+      <POBLACION>Madrid</POBLACION>
+      <TELEFONO>917325566</TELEFONO>
+      <NIF>47210124-C</NIF>
+    </CLIENTE>
+    <CLIENTE>
+      <NOMBRE>Beatriz Barragán Sultán</NOMBRE>
+      <DIRECCION>Cl Zuazo 23</DIRECCION>
+      <POBLACION>Vitoria</POBLACION>
+      <TELEFONO>945222356</TELEFONO>
+      <NIF>47285559-B</NIF>
+    </CLIENTE>
+    <CLIENTE>
+      <NOMBRE>Marta Rojas Fernandez</NOMBRE>
+      <DIRECCION>Cl Madeo Lopez</DIRECCION>
+      <POBLACION>Madrid</POBLACION>
+      <TELEFONO>913652250</TELEFONO>
+      <NIF>44458997-M</NIF>
+    </CLIENTE>
+    <CLIENTE>
+      <NOMBRE>Rosa Pereira Malagón</NOMBRE>
+      <DIRECCION>Avda Pedro Santos 12</DIRECCION>
+      <POBLACION>Castellon</POBLACION>
+      <TELEFONO>921657812</TELEFONO>
+      <NIF>48069598-K</NIF>
+    </CLIENTE>
+    <CLIENTE>
+      <NOMBRE>Marcos Pereira Malagón</NOMBRE>
+      <DIRECCION>Avda Pedro Santos 12</DIRECCION>
+      <POBLACION>Castellon</POBLACION>
+      <TELEFONO>921657812</TELEFONO>
+      <NIF>48555598-B</NIF>
+    </CLIENTE>
+    <CLIENTE>
+      <NOMBRE>Ernesto Ibarreta Llorente</NOMBRE>
+      <DIRECCION>Cl Madrid 33</DIRECCION>
+      <POBLACION>Madrid</POBLACION>
+      <TELEFONO>917341021</TELEFONO>
+      <NIF>46235987-M</NIF>
+    </CLIENTE>
+    <CLIENTE>
+      <NOMBRE>Javier Serrano Aparicio</NOMBRE>
+      <DIRECCION>Avda Iruña Veleia 1</DIRECCION>
+      <POBLACION>Vitoria</POBLACION>
+      <TELEFONO>945060205</TELEFONO>
+      <NIF>42598326-K</NIF>
+    </CLIENTE>
+</CLIENTES>
